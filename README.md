@@ -29,7 +29,7 @@ A collection of short videos edited using CapCut, focusing on:
 
 Videos are available as compressed previews or external links for smoother playback.
 
-👉 *See the folder:* `/video_capcut`  
+👉 *See the folder:* `/video_editing`  
 
 ---
 
