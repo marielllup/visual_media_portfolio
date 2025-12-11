@@ -4,7 +4,10 @@ This portfolio includes photo retouching, visual assets, short-form video conten
 
 ---
 
-## 📸 Photoshop Projects
+## Photoshop Projects
+
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-Creative-blue?style=for-the-badge&logo=adobephotoshop)
+
 
 This section features selected images that demonstrate my ability to work with:
 
@@ -14,11 +17,14 @@ This section features selected images that demonstrate my ability to work with:
 - **Brand-aligned graphic elements**  
 
 
-👉 *See the folder:* `/photoshop`
+ *See the folder:* `/photoshop`
 
 ---
 
-## 🎬 Video Editing – CapCut
+## Video Editing – CapCut
+
+![CapCut](https://img.shields.io/badge/CapCut-Video%20Editing-black?style=for-the-badge&logo=capcut)
+
 
 A collection of short videos edited using CapCut, focusing on:
 
@@ -29,15 +35,18 @@ A collection of short videos edited using CapCut, focusing on:
 
 Videos are available as compressed previews or external links for smoother playback.
 
-👉 *See the folder:* `/video_editing`  
+ *See the folder:* `/video_editing`  
 
 ---
 
 ## Social Media Campaign – Strategy & Content
 
+![Instagram](https://img.shields.io/badge/Social%20Media-Strategy-purple?style=for-the-badge&logo=instagram)
+
+
 This project was developed for a local business and includes both **research** and **creative execution**.
 
-### 🎯 Project Goals
+###  Project Goals
 - Improve brand visibility and identity  
 - Increase audience engagement  
 - Strengthen the business’s online presence  
@@ -60,7 +69,7 @@ The campaign includes:
 - Graphic templates  
 - Storyboard and content flow  
 
-👉 *View the final presentation:* `/social_campaign`  
+ *View the final presentation:* `/social_campaign`  
 
 ---
 
@@ -73,7 +82,7 @@ Additional creative materials such as:
 - Infographics  
 - UI mockups or layout concepts  
 
-👉 *See the folder:* `/graphics`
+ *See the folder:* `/graphics`
 
 ---
 
