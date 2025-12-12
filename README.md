@@ -80,7 +80,7 @@ Additional creative materials such as:
 - Icons  
 - Banners  
 - Infographics  
-- UI mockups or layout concepts  
+- Mockups  
 
  *See the folder:* `/graphics`
 
