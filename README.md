@@ -2,6 +2,10 @@
 A collection of creative works showcasing my skills in **Photoshop**, **video editing**, and **digital communication**.  
 This portfolio includes photo retouching, visual assets, short-form video content, and a complete social media campaign developed as part of my academic work.
 
+All visual materials in this portfolio were created for **Cine Archive**, a fictional brand developed by me as part of a university project.  
+The brand was designed to simulate a real social media presence, allowing full creative control over visual identity, tone of voice, and content strategy.
+
+
 ---
 
 ## Photoshop Projects
